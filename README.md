@@ -1,1 +1,20 @@
-# marketing-strategy-gift-shop
+# 🎁 Маркетинговый анализ деятельности компании «Малиновый мерч»
+
+Учебный многоэтапный семестровый проект, целью которого является **комплексный анализ** деятельности компании на основании открытых данных **для корректировки маркетинговой стратегии**.
+ 
+Выполнен **индивидуально** в рамках дисциплины "Инновационный маркетинг" (ИТМО, 2026) - оценен на отлично. Презентация (55 слайдов), представленная в репозитории, предназначена для устной защиты.
+
+## 📚 Содержание проекта
+ 
+| Этап | Что использовала | Итоговые рекомендации |
+|---|---|---|
+|Описательная модель| ![Static Badge](https://img.shields.io/badge/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%B8%20%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B5%D0%B9%20-green) ![Static Badge](https://img.shields.io/badge/%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20-blue) ![Static Badge](https://img.shields.io/badge/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8%20-purple) | Выходить на рынок Беларуси и Казахстана + опираться на концепции экономики впечатлений и ситуативный маркетинг  |
+|Посегментный анализ|![Static Badge](https://img.shields.io/badge/JTBD%20-red) ![Static Badge](https://img.shields.io/badge/5W%20-beige) ![Static Badge](https://img.shields.io/badge/CJM%20-pink)|Построила портреты трех ключевых сегментов и CJM для отслеживания пользовательского пути|
+|Оценка конкурентной и партнерской среды|![Static Badge](https://img.shields.io/badge/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20JTBD-blueviolet)|Активно выходить на маркетплейсы, сотрудничать с конкретными блогерами |
+|Позиционирование и брендинг|![Static Badge](https://img.shields.io/badge/Value%20Proposition%20Canvas%20-darkblue) ![Static Badge](https://img.shields.io/badge/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20-maroon) ![Static Badge](https://img.shields.io/badge/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%20-green) ![Static Badge](https://img.shields.io/badge/%D0%90%D0%B9%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%20-darkorange)|Использовать слоган "Будь собой, а мы поддержим"|
+|Медиа-планирование, контент-план и коммьюнити|![Static Badge](https://img.shields.io/badge/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-yellow)![Static Badge](https://img.shields.io/badge/Community%20Canvas-purple)![Static Badge](https://img.shields.io/badge/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0-blue)|Выйти в TikTok, добавить в ВК тематические обсуждения, создать чат, запустить оффлайн-активности (тематические вечера)|
+|CRM и Email-маркетинг|![Static Badge](https://img.shields.io/badge/%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-grey)![Static Badge](https://img.shields.io/badge/%D0%92%D0%BE%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%20%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0-darkorange) ![Static Badge](https://img.shields.io/badge/Unisender-violet)|Сделать систему рассылок при прибытии иногороднего подписчика в Санкт-Петербург, использовать представленный шаблон реанимационного письма|
+|Исследование продукта через поиск разрывов сценария пользователя|![Static Badge](https://img.shields.io/badge/HMW-red) ![Static Badge](https://img.shields.io/badge/HADI-darkorange) ![Static Badge](https://img.shields.io/badge/%D0%9A%D0%B0%D0%BD%D0%BE-green)|Снизить порог вступления в программу лояльности, добавить фильтр по характеру, сделать личный кабинет на сайте|
+
+## ⚡ Ключевой вывод
+> Проект демонстрирует навыки **сквозного маркетингового анализа**: от сбора открытых данных до гипотез по КАНО. Все рекомендации обоснованны и привязаны к конкретным инструментам.
